@@ -3,5 +3,4 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-rahil khan
-ghyvhvhcgchbjb n mnbhv
+rahil khancscscscs mnbhv
